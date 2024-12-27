@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_simple_string_repository"
+description = "Custom node that allows storing and accessing strings, meant to be parts of a prompt, in a simplified manner. Partially supports dynamic prompt syntax."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/IgalOgonov/ComfyUI_Simple_String_Repository"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "io"
+DisplayName = "Simple String Repository"
+Icon = ""
