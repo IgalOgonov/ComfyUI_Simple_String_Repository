@@ -13,7 +13,7 @@ Install
 
 **Option 1**
 
-Install via [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager).
+Install via [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - [ComfyUI Registry Page](https://registry.comfy.org/publishers/io/nodes/comfyui_simple_string_repository).
 
 **Option 2**
 
