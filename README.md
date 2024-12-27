@@ -57,13 +57,13 @@ The **front-end functionality** helps avoid that:
 
 Intended Usage
 -----------------------------------------------------------------------------  
-![alt text](2.png)
+![alt text](examples/2.png)
 
 Those nodes don't really have much functionality by themselves - they are meant to supplement existing prompt builder nodes, such as [String Function Tree](https://github.com/wolfden/ComfyUi_String_Function_Tree), that are meant for prompt building (as opposed to prompt generation / random exploration).  
 
 The collections themselves can be created manually (e.g. explore articles about art styles relevant to your project, and copy-paste relevant styles into an "Art Styles" node), or you can take subsets from existing collections [like the ones over here](https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections).  
 As you may have noticed from the earlier preview, the node does support the basic randomness syntax (e.g. `{something|like|this}`), although it's not optimized for it.
 
-![alt text](3-1.png)  
+![alt text](examples/3.png)  
 
 Note that you don't have to use short strings - you may also use large collections as a single string, as long as you're fine with giving up precision for such strings.
